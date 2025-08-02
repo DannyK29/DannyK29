@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate with Tesla
-- 📫 How to reach me.... @d_cube29 on IG
+- 📫 How to reach me...
 
 <!---
 DannyK29/DannyK29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
