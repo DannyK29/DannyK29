@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DannyK29
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate with Tesla
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me...
 
 <!---
